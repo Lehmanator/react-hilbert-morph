@@ -1,3 +1,6 @@
+# react-hilbert-morph
+![Demo](https://raw.githubusercontent.com/samlehman617/react-hilbert-morph/master/demo.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
